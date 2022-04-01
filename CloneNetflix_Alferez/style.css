@@ -1,0 +1,130 @@
+
+ a.navbar-brand {
+    
+    position: relative;
+    color: #e50914 !important;
+    font-family: sans-serif;
+    font-size: 38pt;
+    font-weight: bold;
+    margin-left: 40px;
+
+ }
+ 
+ .bodyForm{
+    background-image: url(108069438-5ee79d80-7089-11eb-8264-08fdda7e0d11.jpg);
+    
+ }
+
+ .lform{
+    padding: 60px;
+    position: relative;
+    max-width: 450px;
+    height: 680px;
+    margin-left: 50%;
+    background: rgba(0, 0, 0, 0.65);
+    box-sizing: border-box;
+    transform: translateX(-50%);
+ }
+ 
+ .lform h2{
+    font-size: 32px;
+    color:#fff;
+    margin-top: 0;
+    margin-bottom: 20px;
+ }
+ 
+ .lform input{
+    height: 50px;
+    width: 100%;
+    border-radius: 3px;
+    color: #fff;
+    background: rgb(41, 40, 40);
+    border: 1px solid rgb(41, 40, 40);
+    padding-left: 15px;
+    box-sizing: border-box;
+    outline: none;
+ }
+ 
+ .lform button{
+
+    border-radius: 5px;
+    margin-top: 15px;
+    height: 50px;
+    width: 100%;
+    color: #fff;
+    background: #e50914;
+    font-weight: 500;
+    font-size: 16px;
+    border: #e50914;
+ }
+ 
+ .input{
+    margin-bottom: 25px;
+ }
+ 
+ .lbox{
+    display: flex;
+    color: #b3b3b3;
+    justify-content: space-between;
+    font-size: 12px;
+ }
+ 
+.lbox input{
+    width: 15px;
+    height: 15px;
+ }
+ 
+ .lboxremb{
+    display: flex;
+    align-items: center;
+    
+ }
+ 
+ .lboxremb span{
+    margin-right: 10px;
+    height: 25px;
+ }
+ 
+ .FBl{
+    display: flex;
+    align-items: center;
+    width: 100%;
+    color: #737373;
+ }
+ 
+ .FBl img{
+    width: 20px;
+    height: 20px;
+ }
+ 
+ .FBl span{
+    margin-right: 10px;
+    font-size: 13px;
+ }
+ 
+ .FBl span a{
+
+    text-decoration: none;
+    color: #737373;
+ }
+ 
+ .netnew{
+    color: #737373;
+    font-size: 16px;
+ }
+ 
+ .netnew a{  
+    color: #fff;
+    font-size: 16px;
+    text-decoration: none;
+ }
+
+ .recaptcha{
+    color: #737373;
+    font-size: 13px;
+ }
+ 
+ .recaptcha a{
+    text-decoration: none;
+    color: #0071eb;
+ }
